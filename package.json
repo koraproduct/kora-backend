@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/koraproduct/kora-backend#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "pg": "^8.14.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
